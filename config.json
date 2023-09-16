@@ -12,12 +12,12 @@
     },
 
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTE1MjUxMjk5NTM5NDU4NDY0Ng.G7ERyF.5YUsp7iKz_915ncWJFSYOAQOfuLhPdnWCLOZe4"
     },
 
     "azure" : {
-        "client_id": "",
-        "client_secret": "",
+        "client_id": "f0606008-2fc6-48a0-adf9-db9fad90c8cf",
+        "client_secret": "831ad5f6-4da9-48bb-b9aa-a618ba1f419c",
         "redirect_uri": ""
     }
 }
